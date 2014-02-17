@@ -1,0 +1,20 @@
+[
+{
+  "modid": "Endermanage",
+  "name": "Endermanage",
+  "description": "Allows you to control which blocks Endermen can carry.",
+  "version": "1.0",
+  "url": "http://www.fybertech.net/minecraft/",
+  "updateUrl": "",
+  "authorList": [
+    "FyberOptic"
+  ],
+  "credits": "By FyberOptic",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
